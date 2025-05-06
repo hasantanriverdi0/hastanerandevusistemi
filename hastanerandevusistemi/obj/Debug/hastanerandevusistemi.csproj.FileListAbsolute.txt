@@ -1,0 +1,12 @@
+C:\Users\hasan\source\repos\hastanerandevusistemi\hastanerandevusistemi\bin\Debug\hastanerandevusistemi.exe.config
+C:\Users\hasan\source\repos\hastanerandevusistemi\hastanerandevusistemi\bin\Debug\hastanerandevusistemi.exe
+C:\Users\hasan\source\repos\hastanerandevusistemi\hastanerandevusistemi\bin\Debug\hastanerandevusistemi.pdb
+C:\Users\hasan\source\repos\hastanerandevusistemi\hastanerandevusistemi\obj\Debug\hastanerandevusistemi.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\hastanerandevusistemi\hastanerandevusistemi\obj\Debug\hastanerandevusistemi.Properties.Resources.resources
+C:\Users\hasan\source\repos\hastanerandevusistemi\hastanerandevusistemi\obj\Debug\hastanerandevusistemi.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\hastanerandevusistemi\hastanerandevusistemi\obj\Debug\hastanerandevusistemi.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\hastanerandevusistemi\hastanerandevusistemi\obj\Debug\hastanerandevusistemi.exe
+C:\Users\hasan\source\repos\hastanerandevusistemi\hastanerandevusistemi\obj\Debug\hastanerandevusistemi.pdb
+C:\Users\hasan\source\repos\hastanerandevusistemi\hastanerandevusistemi\obj\Debug\hastanerandevusistemi.Form_giris.resources
+C:\Users\hasan\source\repos\hastanerandevusistemi\hastanerandevusistemi\obj\Debug\hastanerandevusistemi.randevuekrani.resources
+C:\Users\hasan\source\repos\hastanerandevusistemi\hastanerandevusistemi\obj\Debug\hastanerandevusistemi.bilgiekrani.resources
